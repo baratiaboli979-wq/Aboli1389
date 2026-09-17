@@ -1,4 +1,11 @@
 {
   "schemaVersion": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "1789661012880",
+      "text": "ساکت\n\nسلام\n\nپاداش\n\n\nسازاکی",
+      "publishedAt": "2026-09-17T16:03:00.000Z",
+      "stickerPath": null
+    }
+  ]
 }
