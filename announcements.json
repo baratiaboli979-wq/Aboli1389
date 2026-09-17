@@ -1,11 +1,11 @@
-[
-  {
-    "id": "1789574380423",
-    "title": "سلام چه خبر",
-    "dateMs": 1771880820000,
-    "location": "عغغهعغعهغح",
-    "description": "نلتالالتالتال\nناتنتتاتالل\nنانالبنبابالبالبال\nبیتعبعغلتالتالتالتالل",
-    "link": "",
-    "isFeatured": false
-  }
-]
+{
+  "schemaVersion": 1,
+  "announcements": [
+    {
+      "id": "notice-001",
+      "text": "سلام چه خبر",
+      "publishedAt": "2026-09-17T10:00:00Z",
+      "stickerPath": null
+    }
+  ]
+}
