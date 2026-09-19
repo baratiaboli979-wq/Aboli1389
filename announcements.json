@@ -3,8 +3,16 @@
   "announcements": [
     {
       "id": "1789662731363",
+      "title": "▫️‌‏",
       "text": "▫️‌‏\n🌷«اَلسَّلاَمُ عَلَی الإِْمَامِ الْمُنْتَظَرِ الْمُحْتَجَبِ عَنْ أَعْيُنِ الظَّالِمِينَ وَ الْمُغَيَّبِ عَنْ دَوْلَةِ الْفَاسِقِينَ وَ الْمُعِيدِ رَبُّنَا بِهِ الإِْسْلاَمَ جَدِيداً بَعْدَ الاِنْطِمَاسِ وَ الْقُرْآنَ غَضّاً بَعْدَ الاِنْدِرَاسِ و رَحمةُ اللّٰه و بَرَکاتُه»\n\n🗓برنامه مجلس شب جمعه، ششم ربیع‌الثانی ۱۴۴۸\n\n🎤 منقبت‌خوانی \nآقای حاج احمد ترابی \n\n🎤سخنرانی استاد مکرم حاج‌آقای موسوی▫️\n\n⏰شروع مجلس: ۱۹:۱۰\n👈حسینیه مقدسه باقری مشهد (یدالله)\n\n🔗 (https://t.me/Clip_Maktabi/1461) لینک‌های پخش زنده: تصویری (https://www.aparat.com/msv1377/live) | صوتی (https://www.aparat.com/hbmonline/live) \n\n🎤 آرشیو مجالس: بوستان احمدی (https://t.me/BostaneAhmadi)",
       "publishedAt": "2026-09-17T16:05:00.000Z",
+      "stickerPath": null
+    },
+    {
+      "id": "1789818389092",
+      "title": "22ربیع1445",
+      "text": "انجام شد. توکن با موفقیت تست شد و فایل اولیهٔ `announcements.json` داخل مخزن GitHub ساخته شد. GitHub از همین روش برای ساخت و ویرایش فایل مخزن استفاده می‌کند. \n\n## فقط این کارها را انجام بده\n\n1. این پوشه را باز کن:\n\n[D:\\event_announcement_app\\outputs\\event_announcement_server_final](D:\\event_announcement_app\\outputs\\event_announcement_server_final)\n\n2. روی این فایل دوبار کلیک کن:\n\n[event_announcement_server.exe](D:\\event_announcement_app\\outputs\\event_announcement_server_final\\event_announcement_server.exe)\n\nپنجرهٔ مشکی را نبند.\n\n3. Chrome را باز کن و بنویس:\n\n```text\nhttp://127.0.0.1:8787/admin\n```\n\n4. وارد شو:\n\n```text\nایمیل:\nabolfazlbarati138911@gmail.com\n\nرمز:\n123456000\n```\n\n5. عنوان، تاریخ، ساعت و توضیحات مجلس را وارد کن و روی **ذخیره و انتشار** بزن.\n\nاز این به بعد:\n\n- اطلاعیه روی کامپیوتر مدیر ذخیره می‌شود.\n- خودکار در GitHub منتشر می‌شود.\n- کاربران APK آن را از اینترنت دریافت می‌کنند.\n- برای کاربران نیازی به نصب APK جدید نیست.\n\n## فایل‌های مهم\n\n- [APK کاربران](D:\\event_announcement_app\\outputs\\event_announcement_github_repo.apk)\n- [EXE مدیر](D:\\event_announcement_app\\outputs\\event_announcement_server_final\\event_announcement_server.exe)\n- [راهنمای ساده](D:\\event_announcement_app\\outputs\\event_announcement_server_final\\ADMIN_GUIDE.txt)\n- `config.json`: تنظیمات GitHub و توکن؛ آن را برای کسی ارسال نکن.\n- `data\\announcements.json`: نسخهٔ محلی اطلاعیه‌ها.\n\nچون توکن در پیام آشکار شده، بعد از اولین تست آن را در GitHub باطل کن و یک توکن جدید بساز؛ سپس فقط مقدار داخل `config.json` را جایگزین کن. برای این کار APK دوباره ساخته نمی‌شود.",
+      "publishedAt": "2026-09-19T11:44:00.000Z",
       "stickerPath": null
     }
   ]
