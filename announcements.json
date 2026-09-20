@@ -1,12 +1,4 @@
 {
   "schemaVersion": 1,
-  "announcements": [
-    {
-      "id": "1789922840814",
-      "title": "سلام",
-      "text": "و..وئدوئدوئدوئدوئد",
-      "publishedAt": "2026-09-20T16:46:00.000Z",
-      "stickerPath": null
-    }
-  ]
+  "announcements": []
 }
