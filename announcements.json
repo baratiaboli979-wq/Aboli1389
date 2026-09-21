@@ -1,4 +1,12 @@
 {
   "schemaVersion": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "1789989039800",
+      "title": "سلام چه خبر",
+      "text": "تیبمنسیتبمنشسیتبمنشسیتبمنیستبمنسیتبمنشستیب",
+      "publishedAt": "2026-09-23T11:09:00.000Z",
+      "stickerPath": null
+    }
+  ]
 }
